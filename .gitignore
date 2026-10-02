@@ -1,0 +1,15 @@
+# Ignore everything
+
+*
+
+# Allow skills directory
+!skills
+
+# Allow all Markdown files
+
+!*.md
+
+# Allow essential repository files
+
+!.editorconfig
+!.gitignore
