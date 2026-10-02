@@ -1,0 +1,12 @@
+# Ignore everything
+
+*
+
+# Allow all Markdown files
+
+!*.md
+
+# Allow essential repository files
+
+!.editorconfig
+!.gitignore
