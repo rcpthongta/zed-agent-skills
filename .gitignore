@@ -2,6 +2,9 @@
 
 *
 
+# Allow skills directory
+!skills
+
 # Allow all Markdown files
 
 !*.md
