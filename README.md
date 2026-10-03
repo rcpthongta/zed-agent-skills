@@ -6,7 +6,7 @@ This repository is a collection of Markdown (`.md`) files that serve as custom p
 
 | Skill File | Description |
 | :--- | :--- |
-| <nobr>[`skills/git-commit-skill.md`](./skills/git-commit-skill.md)</nobr> | Generates accurate Git commit messages from diffs following Conventional Commits standards, strictly scoped to output only the message. |
+| <nobr>[`git-commit-skill.md`](./skills/git-commit-skill.md)</nobr> | Generates accurate Git commit messages from diffs following Conventional Commits standards, strictly scoped to output only the message. |
 
 ## 🚀 How to Use
 
